@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ed9d0b, 100:f94001&height=180&section=header&text=GeonWoo's%20GitHub%20👋&fontSize=32&animation=fadeIn&fontAlignY=36&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=GeonWoo's%20GitHub%20Profile&descAlignY=51&descAlign=62)
